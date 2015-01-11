@@ -1,4 +1,4 @@
-FROM hypercloud/base
+FROM hypercloud/nodejs-base
 
 WORKDIR /app
 
