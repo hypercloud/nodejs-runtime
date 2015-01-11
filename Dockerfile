@@ -1,4 +1,4 @@
-FROM nodeunify/base
+FROM hypercloud/base
 
 WORKDIR /app
 
